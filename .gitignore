@@ -3,20 +3,9 @@
 
 !/.gitignore
 
-!/*.xpr 
+!/README.md 
+!/LICENSE
 
-!/*.srcs
-!/*.srcs/*
-!/*.sdk
-!/*.sdk/*
-/*.sdk/*/Debug
-/*.sdk/*/Release
-/*.sdk/webtalk
-/*.sdk/.metadata
-/*.sdk/.sdk
-/*.sdk/RemoteSystemsTempFiles 
-/*.sdk/SDK.log 
+!/lab3/
 
-!/scripts
-!/scripts/*
 
